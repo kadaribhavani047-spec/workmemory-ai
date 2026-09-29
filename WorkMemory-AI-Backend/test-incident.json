@@ -1,0 +1,7 @@
+{
+  "title": "Payment API 500 Error",
+  "service": "Payment API",
+  "environment": "Production",
+  "description": "Payment API started returning 500 errors after deployment.",
+  "severity": "High"
+}
